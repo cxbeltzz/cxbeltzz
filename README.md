@@ -2,13 +2,10 @@ Hi! I’m Camilo Beltrán, passionate about Data Science, Quantitative Finance a
 
 The hand you’re dealt is the one you win with.
 
+
 <details>
 <summary><b>skills</b></summary>
 
-<ul>
-  <li><b>Languages</b>: Python, C++, SQL</li>
-  <li><b>DS/ML/DL</b>: SkLearn, PyTorch, Transformers, HuggingFace</li>
-  <li><b>DevOps</b>: Linux, Git</li>
-</ul>
+`Python` `C++` `SQL` /  `Sklearn` `PyTorch` `Transformers` `HuggingFace` / `Linux` `Git`
 
 </details>
